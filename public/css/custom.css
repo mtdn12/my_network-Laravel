@@ -1,0 +1,115 @@
+body {
+    background: #B1E7F3;
+
+    font-size: 16px;
+
+    color: #7A7676;
+}
+
+.register{
+   padding: 15px;
+
+   background: #C9E5F0;
+}
+.welcome__page{
+    text-align: center;
+}
+
+.navbar-default .navbar-brand {
+    color:#4AD6F1;
+}
+
+.status-post {
+    width: 60%;
+    margin: 10px auto ;
+    
+}
+
+.status-content {  
+
+    margin: 10px auto;
+
+    background: #fff;
+
+    padding: 10px;
+}
+
+.edit-content {
+    width: 60%;
+
+    margin: 10px auto;
+}
+
+.profile-about {
+    margin: 10px;
+
+    background: #fff;
+    
+}
+
+.profile-about h1 {
+    text-align: center;
+}
+
+.profile-about ul {
+    display: inline-block;
+}
+
+.profile-about li {
+    list-style-type: none;
+    
+}
+
+.profile-status {
+    padding: 5px;   
+    
+    margin: 10px auto;
+
+    background: #fff;
+}
+
+.media img {
+    display: block;
+
+    height: 50px;
+}
+
+.profile-friends { 
+
+    width: 80%;
+
+    margin: 10px auto;
+
+    background: #fff;
+
+    padding: 10px;
+    
+    
+}
+
+.profile-friends h1 {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.profile-friends .media {
+    display: block;
+    border-bottom: 1px dotted grey;
+    padding-bottom: 5px;
+}
+
+.friend-list {
+    background: #fff;
+
+    padding: 10px;
+}
+
+.friend-request {
+
+    background: #fff;
+
+    margin-left: 20px;
+
+    padding: 10px;
+}
+
